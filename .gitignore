@@ -8,3 +8,6 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+Fake.csv
+True.csv
+fake_news_model.pkl
