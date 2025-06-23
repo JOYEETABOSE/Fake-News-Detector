@@ -12,11 +12,6 @@ A powerful and explainable fake news detection app built using **Machine Learnin
 - 🎨 Simple and clean UI with **Streamlit**
 - 🔐 Environment variables secured using `.env`
 
----
-
-## 🖼️ Screenshot
-
-![Fake News Detector UI](your-screenshot.png)
 
 ---
 
